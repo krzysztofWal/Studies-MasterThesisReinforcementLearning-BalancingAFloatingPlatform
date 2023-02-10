@@ -1,1 +1,0 @@
-start "" "%ProgramFiles%\Git\git-bash.exe" -c "dos2unix ./run.sh && ./run.sh && /usr/bin/bash --login -i"

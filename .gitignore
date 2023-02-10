@@ -47,3 +47,14 @@
 2D_model
 dme_unz
 /win_sim_wrap.bat
+text_files
+/3D_model/dynamic_model_euler_with_model_base.slx
+/3D_model/dynamic_model_euler_with_s.slx
+/3D_model/enforce_constraint.slx
+/3D_model/Model Properties.xlsx
+/3D_model/s_function_model.slx
+/3D_model/dme_wrap.slx
+/3D_model/dynamic_model_euler_copy_to_compare.slx
+/references_comments/medium-articles-master/reinforcement-learning/openai-gym-matlab/RLWithOpenAI.m
+/references_comments/medium-articles-master/reinforcement-learning/openai-gym-matlab/RLBuiltInExample.m
+monte-carlo-control-1

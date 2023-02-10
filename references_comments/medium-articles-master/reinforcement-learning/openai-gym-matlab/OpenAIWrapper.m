@@ -2,7 +2,9 @@ classdef OpenAIWrapper < rl.env.MATLABEnvironment
     %OPENAIWRAPPER: Wrapper for Python OpenAI Gym for RL trainig in MATLAB
     
     properties
-        open_env = py.gym.make('Pendulum-v1'); % Select environment name here  
+        %%% ============== modified part (changed environment)
+        open_env = py.gym.make('Pendulum-v1'); % Select environment name here
+        %%% ==============  
     end
 
     %% Necessary Methods

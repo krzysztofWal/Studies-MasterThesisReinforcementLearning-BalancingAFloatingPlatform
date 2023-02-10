@@ -1,7 +1,0 @@
-Repository cloned from https://github.com/pacarvalho/medium-articles
-
-Class Open AI wrapper was modified as noted in in-file comments
-
-Matlab RL Open AI wrapper showed in online article
-P. Carvalho, “Solving OpenAI Gym Environments with MATLAB RL Toolbox,” 2022.
- https://medium.com/analytics-vidhya/solving-openai-gym-environments-with-matlab-rl-toolbox-fb9d9e06b593 
